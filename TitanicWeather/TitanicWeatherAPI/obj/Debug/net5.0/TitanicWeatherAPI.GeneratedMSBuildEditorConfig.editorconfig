@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TitanicWeatherAPI
-build_property.ProjectDir = C:\Users\crodo\Source\Repos\TitanicWeather\TitanicWeather\TitanicWeatherAPI\
+build_property.ProjectDir = C:\Users\gkata\Source\Repos\TitanicWeather\TitanicWeather\TitanicWeatherAPI\
