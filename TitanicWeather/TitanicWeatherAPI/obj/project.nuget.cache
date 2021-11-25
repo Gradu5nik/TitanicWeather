@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FoO2dpxghxvEcyjqeoDaUMgcm+fAuhtNyEx7PT4/XEv79VBIdaxWDkSmBaKDZMR+M9MhwW7CBh1YCBKpOUGycQ==",
+  "dgSpecHash": "2DOWZBM/prnE+1qK9gGG9Fk4Ia8sRG5co0zbQS2wUMbvQe1vpOs2ohV3A53Z/LlMxgsDRhY1Yvh5H4/POeErvw==",
   "success": true,
-  "projectFilePath": "C:\\visual_studio_projecten\\Jaar3_Toegepaste_informatica\\Semester_1\\Project\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
+  "projectFilePath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thibo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\thibo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\crodo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\crodo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\crodo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\crodo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\crodo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\crodo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

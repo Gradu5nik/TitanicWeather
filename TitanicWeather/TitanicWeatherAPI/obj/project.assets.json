@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thibo\\.nuget\\packages\\": {}
+    "C:\\Users\\crodo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\visual_studio_projecten\\Jaar3_Toegepaste_informatica\\Semester_1\\Project\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
+      "projectUniqueName": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
       "projectName": "TitanicWeatherAPI",
-      "projectPath": "C:\\visual_studio_projecten\\Jaar3_Toegepaste_informatica\\Semester_1\\Project\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
-      "packagesPath": "C:\\Users\\thibo\\.nuget\\packages\\",
-      "outputPath": "C:\\visual_studio_projecten\\Jaar3_Toegepaste_informatica\\Semester_1\\Project\\TitanicWeather\\TitanicWeatherAPI\\obj\\",
+      "projectPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
+      "packagesPath": "C:\\Users\\crodo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thibo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\crodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -254,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
