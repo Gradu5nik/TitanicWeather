@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj": {}
+    "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj": {
+    "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
         "projectName": "TitanicWeatherAPI",
-        "projectPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
+        "projectPath": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\TitanicWeatherAPI.csproj",
         "packagesPath": "C:\\Users\\crodo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\obj\\",
+        "outputPath": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicWeatherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crodo\\AppData\\Roaming\\NuGet\\NuGet.Config",

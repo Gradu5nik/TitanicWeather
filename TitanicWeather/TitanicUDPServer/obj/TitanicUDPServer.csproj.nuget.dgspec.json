@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj": {}
+    "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj": {
+    "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj",
+        "projectUniqueName": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj",
         "projectName": "TitanicUDPServer",
-        "projectPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj",
+        "projectPath": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\TitanicUDPServer.csproj",
         "packagesPath": "C:\\Users\\crodo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crodo\\Source\\Repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\obj\\",
+        "outputPath": "C:\\Users\\crodo\\source\\repos\\TitanicWeather\\TitanicWeather\\TitanicUDPServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
