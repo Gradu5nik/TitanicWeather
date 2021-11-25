@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TitanicWeather",
+    "\\TitanicWeather\\TitanicWeatherWebsite"
   ],
-  "SelectedNode": "\\TitanicWeather.sln",
+  "SelectedNode": "\\TitanicWeather\\TitanicWeatherWebsite\\main.js",
   "PreviewInSolutionExplorer": false
 }

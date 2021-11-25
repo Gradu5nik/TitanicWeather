@@ -10,7 +10,10 @@ function getWeather(){
 function Forecast(res) {
     document.getElementById('forecast').innerHTML = `
     <ul>
-        <li>Temperature in roskilde ${JSON.stringify(res.data.instant.details.air_temperature)}°C</li>
+        <li>Temperature ${JSON.stringify(res.data.instant.details.air_temperature)}°C</li>
+        <li>Wind ${JSON.stringify(res.data.instant.details.wind_speed)} m/s</li>
+        <li>${JSON.stringify(res.data.next_12_hours.summary.symbol_code)}</li>
+        <li>Relative humididty ${JSON.stringify(res.data.instant.details.relative_humidity)} %</li>
     </ul>
   `;
   }
