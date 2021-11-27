@@ -14,3 +14,19 @@ C:\Users\crodo\Source\Repos\TitanicWeather\TitanicWeather\TitanicUDPServer\obj\D
 C:\Users\crodo\Source\Repos\TitanicWeather\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\ref\TitanicUDPServer.dll
 C:\Users\crodo\Source\Repos\TitanicWeather\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.pdb
 C:\Users\crodo\Source\Repos\TitanicWeather\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.genruntimeconfig.cache
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.exe
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.deps.json
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.runtimeconfig.json
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.runtimeconfig.dev.json
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.dll
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\ref\TitanicUDPServer.dll
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\bin\Debug\net5.0\TitanicUDPServer.pdb
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.csproj.AssemblyReference.cache
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.AssemblyInfoInputs.cache
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.AssemblyInfo.cs
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.csproj.CoreCompileInputs.cache
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.dll
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\ref\TitanicUDPServer.dll
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.pdb
+C:\Users\wenqi\Desktop\Sense Hat\GroupCode\TitanicWeather\TitanicUDPServer\obj\Debug\net5.0\TitanicUDPServer.genruntimeconfig.cache

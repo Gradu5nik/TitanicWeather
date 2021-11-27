@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitanicWeatherAPI", "TitanicWeatherAPI\TitanicWeatherAPI.csproj", "{EACD1BBB-7A11-4756-97DD-94C0EFCC5E0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanicUDPServer", "TitanicUDPServer\TitanicUDPServer.csproj", "{D280E805-7F4A-4A63-B574-A69606C5EFE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitanicUDPServer", "TitanicUDPServer\TitanicUDPServer.csproj", "{D280E805-7F4A-4A63-B574-A69606C5EFE1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TitanicVUE", "TitanicVUE\TitanicVUE.njsproj", "{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D280E805-7F4A-4A63-B574-A69606C5EFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF37380-5D9D-4A12-AA69-C9B3D78FFA45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
